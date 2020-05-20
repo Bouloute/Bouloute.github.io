@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Magic of Ruby on Rails"
-date:       2020-05-20 18:53:34 +0000
+date:       2020-05-20 14:53:36 -0400
 permalink:  the_magic_of_ruby_on_rails
 ---
 
