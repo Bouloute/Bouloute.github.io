@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Ruby on Rails"
-date:       2020-06-13 16:02:43 +0000
+date:       2020-06-13 12:02:44 -0400
 permalink:  ruby_on_rails
 ---
 
 
-### creating the proper schema
+### Creating the proper schema
 
 Ah the fear of the blank page. I really wanted to do a Hockey related project as my first two projects were for two reasons: 
 <ul>
