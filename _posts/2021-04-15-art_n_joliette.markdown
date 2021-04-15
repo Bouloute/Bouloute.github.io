@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Art n Joliette"
-date:       2021-04-15 22:41:27 +0000
+date:       2021-04-15 18:41:28 -0400
 permalink:  art_n_joliette
 ---
 
